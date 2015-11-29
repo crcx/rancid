@@ -1,0 +1,32 @@
+<table class='table table-striped table-bordered table-condensed'>
+<tr valign="top">
+<td><script>var cal = new Calendar(0, 2009); cal.generateHTML(); document.write(cal.getHTML());</script></td>
+<td>&nbsp;&nbsp;</td>
+<td><script>var cal = new Calendar(1, 2009); cal.generateHTML(); document.write(cal.getHTML());</script></td>
+</tr>
+<tr valign="top">
+<td><script>var cal = new Calendar(2, 2009); cal.generateHTML(); document.write(cal.getHTML());</script></td>
+<td>&nbsp;&nbsp;</td>
+<td><script>var cal = new Calendar(3, 2009); cal.generateHTML(); document.write(cal.getHTML());</script></td>
+</tr>
+<tr valign="top">
+<td><script>var cal = new Calendar(4, 2009); cal.generateHTML(); document.write(cal.getHTML());</script></td>
+<td>&nbsp;&nbsp;</td>
+<td><script>var cal = new Calendar(5, 2009); cal.generateHTML(); document.write(cal.getHTML());</script></td>
+</tr>
+<tr valign="top">
+<td><script>var cal = new Calendar(6, 2009); cal.generateHTML(); document.write(cal.getHTML());</script></td>
+<td>&nbsp;&nbsp;</td>
+<td><script>var cal = new Calendar(7, 2009); cal.generateHTML(); document.write(cal.getHTML());</script></td>
+</tr>
+<tr valign="top">
+<td><script>var cal = new Calendar(8, 2009); cal.generateHTML(); document.write(cal.getHTML());</script></td>
+<td>&nbsp;&nbsp;</td>
+<td><script>var cal = new Calendar(9, 2009); cal.generateHTML(); document.write(cal.getHTML());</script></td>
+</tr>
+<tr valign="top">
+<td><script>var cal = new Calendar(10, 2009); cal.generateHTML(); document.write(cal.getHTML());</script></td>
+<td>&nbsp;&nbsp;</td>
+<td><script>var cal = new Calendar(11, 2009); cal.generateHTML(); document.write(cal.getHTML());</script></td>
+</tr>
+</table>
